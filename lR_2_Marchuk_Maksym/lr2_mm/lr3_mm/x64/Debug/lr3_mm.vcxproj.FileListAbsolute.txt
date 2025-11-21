@@ -1,0 +1,6 @@
+C:\Users\User\OneDrive\Desktop\lR_3_Marchuk_Maksym\lr3_mm\lr3_mm\x64\Debug\lr3_mm.vcxproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\lR_3_Marchuk_Maksym\lr3_mm\lr3_mm\x64\Debug\lr3mm.MyForm.resources
+C:\Users\User\OneDrive\Desktop\lR_3_Marchuk_Maksym\lr3_mm\lr3_mm\x64\Debug\lr3_mm.vcxproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\lR_3_Marchuk_Maksym\lr2_mm\lr3_mm\x64\Debug\lr3_mm.vcxproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\lR_3_Marchuk_Maksym\lr2_mm\lr3_mm\x64\Debug\lr3mm.MyForm.resources
+C:\Users\User\OneDrive\Desktop\lR_3_Marchuk_Maksym\lr2_mm\lr3_mm\x64\Debug\lr3_mm.vcxproj.GenerateResource.cache

@@ -1,0 +1,6 @@
+C:\Users\User\OneDrive\Desktop\lR_3_Marchuk_Maksym\lR3_Marchuk\lR3_Marchuk\x64\Debug\lR3_Marchuk.vcxproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\lR_3_Marchuk_Maksym\lR3_Marchuk\lR3_Marchuk\x64\Debug\lR3Marchuk.MyForm.resources
+C:\Users\User\OneDrive\Desktop\lR_3_Marchuk_Maksym\lR3_Marchuk\lR3_Marchuk\x64\Debug\lR3_Marchuk.vcxproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\Практикум програмування\lR_3_Marchuk_Maksym\lR3_Marchuk\lR3_Marchuk\x64\Debug\lR3_Marchuk.vcxproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\Практикум програмування\lR_3_Marchuk_Maksym\lR3_Marchuk\lR3_Marchuk\x64\Debug\lR3Marchuk.MyForm.resources
+C:\Users\User\OneDrive\Desktop\Практикум програмування\lR_3_Marchuk_Maksym\lR3_Marchuk\lR3_Marchuk\x64\Debug\lR3_Marchuk.vcxproj.GenerateResource.cache
