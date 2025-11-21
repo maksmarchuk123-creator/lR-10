@@ -1,0 +1,30 @@
+﻿  lR_5_Marchuk_Maksym.cpp
+C:\Users\User\OneDrive\Desktop\Практикум програмування\lR_5\lR_5_Marchuk_Maksym\lR_5_Marchuk_Maksym.cpp(22,17): warning C4566: символ, представленный универсальным именем символа "\u03B1", невозможно представить в текущей кодовой странице (1251)
+  (компиляция исходного файла "/lR_5_Marchuk_Maksym.cpp")
+  
+C:\Users\User\OneDrive\Desktop\Практикум програмування\lR_5\lR_5_Marchuk_Maksym\lR_5_Marchuk_Maksym.cpp(25,42): warning C4566: символ, представленный универсальным именем символа "\u03B1", невозможно представить в текущей кодовой странице (1251)
+  (компиляция исходного файла "/lR_5_Marchuk_Maksym.cpp")
+  
+C:\Users\User\OneDrive\Desktop\Практикум програмування\lR_5\lR_5_Marchuk_Maksym\lR_5_Marchuk_Maksym.cpp(55,17): warning C4566: символ, представленный универсальным именем символа "\u03C9", невозможно представить в текущей кодовой странице (1251)
+  (компиляция исходного файла "/lR_5_Marchuk_Maksym.cpp")
+  
+C:\Users\User\OneDrive\Desktop\Практикум програмування\lR_5\lR_5_Marchuk_Maksym\lR_5_Marchuk_Maksym.cpp(62,72): warning C4566: символ, представленный универсальным именем символа "\u03C9", невозможно представить в текущей кодовой странице (1251)
+  (компиляция исходного файла "/lR_5_Marchuk_Maksym.cpp")
+  
+C:\Users\User\OneDrive\Desktop\Практикум програмування\lR_5\lR_5_Marchuk_Maksym\lR_5_Marchuk_Maksym.cpp(74,24): warning C4566: символ, представленный универсальным именем символа "\u03C9", невозможно представить в текущей кодовой странице (1251)
+  (компиляция исходного файла "/lR_5_Marchuk_Maksym.cpp")
+  
+C:\Users\User\OneDrive\Desktop\Практикум програмування\lR_5\lR_5_Marchuk_Maksym\lR_5_Marchuk_Maksym.cpp(99,17): warning C4566: символ, представленный универсальным именем символа "\u03C4", невозможно представить в текущей кодовой странице (1251)
+  (компиляция исходного файла "/lR_5_Marchuk_Maksym.cpp")
+  
+C:\Users\User\OneDrive\Desktop\Практикум програмування\lR_5\lR_5_Marchuk_Maksym\lR_5_Marchuk_Maksym.cpp(104,43): warning C4566: символ, представленный универсальным именем символа "\u03C4", невозможно представить в текущей кодовой странице (1251)
+  (компиляция исходного файла "/lR_5_Marchuk_Maksym.cpp")
+  
+C:\Users\User\OneDrive\Desktop\Практикум програмування\lR_5\lR_5_Marchuk_Maksym\lR_5_Marchuk_Maksym.cpp(154,17): warning C4566: символ, представленный универсальным именем символа "\u03C9", невозможно представить в текущей кодовой странице (1251)
+  (компиляция исходного файла "/lR_5_Marchuk_Maksym.cpp")
+  
+C:\Users\User\OneDrive\Desktop\Практикум програмування\lR_5\lR_5_Marchuk_Maksym\lR_5_Marchuk_Maksym.cpp(164,70): warning C4566: символ, представленный универсальным именем символа "\u03C9", невозможно представить в текущей кодовой странице (1251)
+  (компиляция исходного файла "/lR_5_Marchuk_Maksym.cpp")
+  
+  AssemblyInfo.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  lR_5_Marchuk_Maksym.vcxproj -> C:\Users\User\OneDrive\Desktop\Практикум програмування\lR_5\lR_5_Marchuk_Maksym\x64\Debug\lR_5_Marchuk_Maksym.exe

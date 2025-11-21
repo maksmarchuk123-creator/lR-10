@@ -1,0 +1,3 @@
+C:\Users\User\OneDrive\Desktop\Практикум програмування\lR_4_Marchuk_Maksym\lR4_Marchuk_Maksym\lR4_Marc.3FBF4651\x64\Debug\lR4_Marchuk_Maksym.vcxproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\Практикум програмування\lR_4_Marchuk_Maksym\lR4_Marchuk_Maksym\lR4_Marc.3FBF4651\x64\Debug\lR4MarchukMaksym.MyForm.resources
+C:\Users\User\OneDrive\Desktop\Практикум програмування\lR_4_Marchuk_Maksym\lR4_Marchuk_Maksym\lR4_Marc.3FBF4651\x64\Debug\lR4_Marchuk_Maksym.vcxproj.GenerateResource.cache
